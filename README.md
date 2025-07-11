@@ -2,7 +2,7 @@
 
 VibeCheck AI is a deep learning-powered system designed to detect and classify human emotions directly from the sound of a voice. This project explores the nuances of human-computer interaction by building a robust model capable of understanding the emotional layer in speech.
 
-![Medium Article]([url](https://medium.com/@manikeshmakam/can-ai-feel-your-vibe-introducing-vibecheck-ai-your-emotion-detection-system-2e248ac5cf7c))
+Medium Article: [Can AI Feel Your Vibe?](https://medium.com/@manikeshmakam/can-ai-feel-your-vibe-introducing-vibecheck-ai-your-emotion-detection-system-2e248ac5cf7c)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
