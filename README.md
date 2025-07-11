@@ -85,7 +85,6 @@ The classification report shows strong performance, especially for certain emoti
 - **High Precision:** The model is very accurate when predicting 'angry' (97%) and 'neutral' (100%).
 - **Good Recall:** The model is effective at identifying most instances of 'sad' (84%) and 'angry' (74%).
 
-![Classification Report](https://i.imgur.com/W2h5h3f.png)
 
 ## How to Use
 
