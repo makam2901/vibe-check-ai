@@ -2,8 +2,6 @@
 
 VibeCheck AI is a deep learning-powered system designed to detect and classify human emotions directly from the sound of a voice. This project explores the nuances of human-computer interaction by building a robust model capable of understanding the emotional layer in speech.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ![Confusion Matrix](https://i.imgur.com/2A7r8gQ.png)
 
 ## Table of Contents
